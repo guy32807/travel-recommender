@@ -99,5 +99,13 @@
         <p>Please enable JavaScript to use Travel Recommender and discover your perfect destination.</p>
       </div>
     </noscript>
+    <script>
+      // Redirect to home page if URL is just the domain
+      if (window.location.pathname === '/travel-recommender/' && 
+          !window.location.search && 
+          !window.location.hash) {
+        window.location.href = '/travel-recommender/#/';
+      }
+    </script>
   </body>
 </html>
