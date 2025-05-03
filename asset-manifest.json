@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel-recommender/static/css/main.e9a6fe4d.css",
+    "main.js": "/travel-recommender/static/js/main.c7a2c46e.js",
+    "index.html": "/travel-recommender/index.html",
+    "main.e9a6fe4d.css.map": "/travel-recommender/static/css/main.e9a6fe4d.css.map",
+    "main.c7a2c46e.js.map": "/travel-recommender/static/js/main.c7a2c46e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9a6fe4d.css",
+    "static/js/main.c7a2c46e.js"
+  ]
+}
