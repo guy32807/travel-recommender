@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "blog": "Blog",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "about": {
+    "seo": {
+      "title": "About Us | Travel Recommender",
+      "description": "Learn about the team behind Travel Recommender and our mission to help travelers find their perfect destinations.",
+      "keywords": "about us, travel recommender, travel experts, destination guides, travel company"
+    },
+    "title": "About Us",
+    "subtitle": "Meet the team behind Travel Recommender and learn about our mission.",
+    "mission": {
+      "title": "Our Mission",
+      "content": "At Travel Recommender, our mission is to help travelers discover their perfect destinations and make their travel planning experience as smooth as possible. We believe that travel has the power to transform lives, broaden perspectives, and create lasting memories.",
+      "content2": "We curate detailed destination guides, share practical travel tips, and provide exclusive deals to ensure you get the most out of your travels. Whether you're a seasoned globetrotter or planning your first adventure, we're here to help you every step of the way."
+    },
+    "story": {
+      "title": "Our Story",
+      "content": "Travel Recommender was founded in 2023 by a group of passionate travelers who were frustrated with the overwhelming amount of information available online and the difficulty of finding reliable, personalized travel recommendations.",
+      "content2": "What started as a small blog has grown into a comprehensive travel resource trusted by thousands of travelers worldwide. Our team has expanded to include travel experts from different backgrounds, all united by their love for exploration and commitment to helping others discover the world."
+    },
+    "team": {
+      "title": "Our Team",
+      "intro": "Meet the passionate travelers behind Travel Recommender. Our diverse team brings together expertise in travel, technology, and content creation.",
+      "founder": "Founder & Travel Expert",
+      "contentDirector": "Content Director",
+      "techLead": "Tech Lead",
+      "michaelBio": "World traveler with over 50 countries visited. Former digital nomad and passionate about sustainable tourism.",
+      "sophiaBio": "Award-winning travel writer and photographer. Specializes in cultural experiences and off-the-beaten-path destinations.",
+      "jamesBio": "Software engineer and travel tech enthusiast. Ensures Travel Recommender provides a seamless user experience."
+    },
+    "values": {
+      "title": "Our Values",
+      "authenticity": "Authenticity:",
+      "authenticityDesc": "We share honest and unbiased travel information, including both the highlights and challenges of each destination.",
+      "sustainability": "Sustainability:",
+      "sustainabilityDesc": "We promote responsible tourism and provide information on eco-friendly travel options.",
+      "inclusion": "Inclusion:",
+      "inclusionDesc": "We believe travel is for everyone and strive to provide diverse perspectives and resources for all types of travelers.",
+      "quality": "Quality:",
+      "qualityDesc": "We are committed to providing well-researched, accurate, and up-to-date travel information."
+    }
+  },
+  "destinations": {
+    "seo": {
+      "title": "Explore Destinations | Travel Recommender",
+      "description": "Discover amazing travel destinations around the world with guides, tips, and exclusive deals.",
+      "keywords": "travel destinations, vacation spots, travel guide, tourism, international travel"
+    },
+    "title": "Explore Destinations",
+    "subtitle": "Discover amazing travel destinations around the world with guides, tips, and exclusive deals.",
+    "notFound": "Destination Not Found",
+    "notFoundDesc": "The destination you are looking for does not exist or has been removed.",
+    "backToList": "Back to Destinations",
+    "about": "About",
+    "bestTimeToVisit": "Best Time to Visit",
+    "activities": "Things to Do",
+    "planYourTrip": "Plan Your Trip",
+    "findDeals": "Find hotels and activities"
+  },
+  "newsletter": {
+    "title": "Subscribe to Our Newsletter",
+    "description": "Get the latest travel tips, destination guides, and exclusive deals delivered straight to your inbox.",
+    "placeholder": "Your email address",
+    "button": "Subscribe",
+    "invalidEmail": "Please enter a valid email address.",
+    "success": "Thank you for subscribing to our newsletter!"
+  },
+  "search": {
+    "title": "Find Your Perfect Stay",
+    "destination": "Destination",
+    "destinationPlaceholder": "City, region, or specific hotel",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Guests",
+    "guest": "Guest",
+    "searchButton": "Search Hotels"
+  },
+  "footer": {
+    "about": "Discover your perfect travel destination with personalized recommendations and exclusive deals on hotels, flights, and activities worldwide.",
+    "destinations": "Destinations",
+    "company": "Company",
+    "support": "Support",
+    "affiliateDisclosure": "Affiliate Disclosure",
+    "faq": "FAQs",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookies",
+    "contactUs": "Contact Us",
+    "rightsReserved": "All rights reserved."
+  }
+}

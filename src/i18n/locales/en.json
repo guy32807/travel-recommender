@@ -1,0 +1,70 @@
+{
+  "nav": {
+    "home": "Home",
+    "destinations": "Destinations",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Discover Your Next Adventure",
+      "subtitle": "Find the perfect destination and plan your dream vacation with our expert travel recommendations",
+      "cta": "Start Exploring"
+    },
+    "featuredDestinations": "Featured Destinations",
+    "latestTravelGuides": "Latest Travel Guides",
+    "testimonials": {
+      "title": "What Travelers Say"
+    },
+    "cta": {
+      "title": "Ready to Start Your Journey?",
+      "description": "Find the best deals on flights, hotels, and vacation packages",
+      "button": "Plan Your Trip"
+    },
+    "seo": {
+      "title": "Travel Recommender - Expert Travel Tips & Destination Guides",
+      "description": "Discover expert travel recommendations, destination guides, and travel tips to help you plan your perfect vacation.",
+      "keywords": "travel recommendations, vacation planning, travel tips, destination guides, budget travel"
+    }
+  },
+  "destinations": {
+    "filterBy": "Filter By",
+    "continent": "Continent",
+    "priceRange": "Price Range",
+    "bestFor": "Best For",
+    "sortBy": "Sort By",
+    "search": "Search Destinations",
+    "noResults": "No destinations found matching your criteria."
+  },
+  "blog": {
+    "readMore": "Read More",
+    "readingTime": "{{minutes}} min read",
+    "relatedPosts": "Related Articles",
+    "postNotFound": "Blog Post Not Found",
+    "postNotFoundDesc": "The blog post you're looking for doesn't exist or has been removed.",
+    "backToBlog": "Back to Blog"
+  },
+  "searchWidget": {
+    "title": "Search for the Perfect Stay",
+    "destination": "Destination",
+    "destinationPlaceholder": "Where are you going?",
+    "checkIn": "Check-in",
+    "checkOut": "Check-out",
+    "guests": "Guests",
+    "search": "Search"
+  },
+  "footer": {
+    "about": "About Us",
+    "aboutText": "Travel Recommender helps you discover the perfect destinations and plan unforgettable trips with expert recommendations and insider tips.",
+    "quickLinks": "Quick Links",
+    "popularDestinations": "Popular Destinations",
+    "contactUs": "Contact Us",
+    "copyright": "All Rights Reserved."
+  },
+  "seo": {
+    "defaultTitle": "Travel Recommender - Expert Travel Tips & Destination Guides",
+    "defaultDescription": "Discover expert travel recommendations, destination guides, and travel tips to help you plan your perfect vacation.",
+    "defaultKeywords": "travel, vacation, destinations, travel tips, travel guide, holiday planning"
+  }
+}

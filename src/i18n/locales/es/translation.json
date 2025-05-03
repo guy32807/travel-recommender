@@ -1,0 +1,97 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "destinations": "Destinos",
+    "blog": "Blog",
+    "about": "Nosotros",
+    "contact": "Contacto"
+  },
+  "about": {
+    "seo": {
+      "title": "Sobre Nosotros | Travel Recommender",
+      "description": "Conozca al equipo detrás de Travel Recommender y nuestra misión de ayudar a los viajeros a encontrar sus destinos perfectos.",
+      "keywords": "sobre nosotros, recomendador de viajes, expertos en viajes, guías de destino, empresa de viajes"
+    },
+    "title": "Sobre Nosotros",
+    "subtitle": "Conozca al equipo detrás de Travel Recommender y aprenda sobre nuestra misión.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "content": "En Travel Recommender, nuestra misión es ayudar a los viajeros a descubrir sus destinos perfectos y hacer que su experiencia de planificación de viajes sea lo más fluida posible. Creemos que los viajes tienen el poder de transformar vidas, ampliar perspectivas y crear recuerdos duraderos.",
+      "content2": "Seleccionamos guías detalladas de destinos, compartimos consejos prácticos de viaje y ofrecemos ofertas exclusivas para garantizar que aproveche al máximo sus viajes. Ya sea un viajero experimentado o esté planeando su primera aventura, estamos aquí para ayudarlo en cada paso del camino."
+    },
+    "story": {
+      "title": "Nuestra Historia",
+      "content": "Travel Recommender fue fundado en 2023 por un grupo de viajeros apasionados que estaban frustrados con la abrumadora cantidad de información disponible en línea y la dificultad de encontrar recomendaciones de viaje confiables y personalizadas.",
+      "content2": "Lo que comenzó como un pequeño blog se ha convertido en un recurso de viaje completo en el que confían miles de viajeros en todo el mundo. Nuestro equipo se ha expandido para incluir expertos en viajes de diferentes orígenes, todos unidos por su amor por la exploración y su compromiso de ayudar a otros a descubrir el mundo."
+    },
+    "team": {
+      "title": "Nuestro Equipo",
+      "intro": "Conozca a los viajeros apasionados detrás de Travel Recommender. Nuestro diverso equipo reúne experiencia en viajes, tecnología y creación de contenido.",
+      "founder": "Fundador y Experto en Viajes",
+      "contentDirector": "Director de Contenido",
+      "techLead": "Líder Técnico",
+      "michaelBio": "Viajero mundial con más de 50 países visitados. Ex nómada digital y apasionado por el turismo sostenible.",
+      "sophiaBio": "Escritora y fotógrafa de viajes galardonada. Se especializa en experiencias culturales y destinos fuera de lo común.",
+      "jamesBio": "Ingeniero de software y entusiasta de la tecnología de viajes. Garantiza que Travel Recommender proporcione una experiencia de usuario perfecta."
+    },
+    "values": {
+      "title": "Nuestros Valores",
+      "authenticity": "Autenticidad:",
+      "authenticityDesc": "Compartimos información de viaje honesta e imparcial, incluidos tanto los aspectos destacados como los desafíos de cada destino.",
+      "sustainability": "Sostenibilidad:",
+      "sustainabilityDesc": "Promovemos el turismo responsable y proporcionamos información sobre opciones de viaje ecológicas.",
+      "inclusion": "Inclusión:",
+      "inclusionDesc": "Creemos que los viajes son para todos y nos esforzamos por proporcionar perspectivas y recursos diversos para todo tipo de viajeros.",
+      "quality": "Calidad:",
+      "qualityDesc": "Estamos comprometidos a proporcionar información de viaje bien investigada, precisa y actualizada."
+    }
+  },
+  "destinations": {
+    "seo": {
+      "title": "Explora Destinos | Travel Recommender",
+      "description": "Descubre increíbles destinos de viaje en todo el mundo con guías, consejos y ofertas exclusivas.",
+      "keywords": "destinos de viaje, lugares de vacaciones, guía de viaje, turismo, viajes internacionales"
+    },
+    "title": "Explora Destinos",
+    "subtitle": "Descubre increíbles destinos de viaje en todo el mundo con guías, consejos y ofertas exclusivas.",
+    "notFound": "Destino No Encontrado",
+    "notFoundDesc": "El destino que estás buscando no existe o ha sido eliminado.",
+    "backToList": "Volver a Destinos",
+    "about": "Acerca de",
+    "bestTimeToVisit": "Mejor Época para Visitar",
+    "activities": "Cosas para Hacer",
+    "planYourTrip": "Planifica Tu Viaje",
+    "findDeals": "Encuentra hoteles y actividades"
+  },
+  "newsletter": {
+    "title": "Suscríbete a Nuestro Boletín",
+    "description": "Recibe los últimos consejos de viaje, guías de destino y ofertas exclusivas directamente en tu bandeja de entrada.",
+    "placeholder": "Tu dirección de correo electrónico",
+    "button": "Suscribirse",
+    "invalidEmail": "Por favor, introduce una dirección de correo electrónico válida.",
+    "success": "¡Gracias por suscribirte a nuestro boletín!"
+  },
+  "search": {
+    "title": "Encuentra Tu Estancia Perfecta",
+    "destination": "Destino",
+    "destinationPlaceholder": "Ciudad, región o hotel específico",
+    "checkIn": "Entrada",
+    "checkOut": "Salida",
+    "guests": "Huéspedes",
+    "guest": "Huésped",
+    "searchButton": "Buscar Hoteles"
+  },
+  "footer": {
+    "about": "Descubre tu destino de viaje perfecto con recomendaciones personalizadas y ofertas exclusivas en hoteles, vuelos y actividades en todo el mundo.",
+    "destinations": "Destinos",
+    "company": "Empresa",
+    "support": "Soporte",
+    "affiliateDisclosure": "Divulgación de Afiliados",
+    "faq": "Preguntas Frecuentes",
+    "terms": "Términos de Servicio",
+    "privacy": "Política de Privacidad",
+    "cookies": "Cookies",
+    "contactUs": "Contáctanos",
+    "rightsReserved": "Todos los derechos reservados."
+  }
+}
